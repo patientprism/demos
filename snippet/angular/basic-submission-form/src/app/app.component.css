@@ -1,0 +1,30 @@
+.form {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.form-row {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    margin-bottom: 4px;
+}
+
+.form-row input {
+    width: 300px;
+}
+
+button {
+    margin-top: 10px;
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 8px 4px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 4px;
+}
