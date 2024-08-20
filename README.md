@@ -1,6 +1,4 @@
-# Patient Prism Demos Repository
-
-![Patient Prism](https://www.patientprism.com/hubfs/logo.svg)
+![image](https://github.com/user-attachments/assets/eb1025e3-c35d-4aaa-a72f-9143e5cd5a8a)
 
 ## Overview
 
