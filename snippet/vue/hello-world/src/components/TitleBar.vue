@@ -29,11 +29,21 @@ h3 {
   left: 5px
 }
 
+.greetings {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
 .greetings h1 {
   text-align: center;
 }
 
 @media (min-width: 1024px) {
+  .greetings {
+    align-items: flex-start;
+  }
+  
   .greetings h1,
   .greetings h3 {
     text-align: left;

@@ -1,29 +1,14 @@
 # hello-world
 
-This template should help get you started developing with Vue 3 in Vite.
+A basic showcase of interacting with the Prism SDK.
 
-## Recommended IDE Setup
+If you want to test with your own Code Snippet, replace the `<script>` tag for the snippet in the `index.html` file for this demo.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+![Picture](image.png)
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
+## Run Demo
 
 ```sh
 npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
 npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
 ```
