@@ -1,4 +1,4 @@
-# hello-world
+# Hello World
 
 A basic showcase of interacting with the Prism SDK.
 
